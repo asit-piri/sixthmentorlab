@@ -1,4 +1,4 @@
-# sixthmentorlab
+# sixthsensementorlab
 
 <h1 align="center"><img src="https://github.com/asit-piri/asitpiri.github.io/blob/main/img/Logo.png" width="60"/></h1>
 <h3 align="center" style="color:MediumSeaGreen"> Greetings. It’s great connecting with you.</h3>
